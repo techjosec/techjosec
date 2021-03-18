@@ -1,6 +1,6 @@
 ## 👋 Hi there! I’m José. From Argentina 🔵⚪🟡⚪🔵
 
-### I'm a Full Stack Web Developer with more than 8 years of experience in a large of programming languages :older_man: :joy:. 
+### I'm a Full Stack Web Developer with more than 9 years of experience :older_man: :joy: . 
 
 #### 🌱 In the present I am working on JavaScript MERN stack.
 
