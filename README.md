@@ -1,4 +1,4 @@
-## 👋 Hi there! I’m José. From Argentina 🔵⚪🟡⚪🔵
+## 👋 Hi there! I’m José, from Argentina 🔵⚪🟡⚪🔵
 
 ### I'm a Full Stack Web Developer with more than 9 years of experience :older_man: :joy: . 
 
