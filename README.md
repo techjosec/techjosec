@@ -1,15 +1,17 @@
-## 👋 Hi there! I’m José, from Argentina 🔵⚪🟡⚪🔵
+# 👋 Hi there! I’m José
 
-### I'm a Full Stack Web Developer with more than 9 years of experience :older_man: :joy: . 
+### I'm a Full Stack Web Developer with 10+ years of experience :nerd_face:.
 
-#### 🌱 In the present I am working on JavaScript MERN stack.
+#### 🚀 In the present I'm currently working in Mercado Libre Company.
 
-#### You can contact me on:
+#### Contact me on:
 - [![alt text][1.1]][1]
 
 [1.1]: http://i.imgur.com/wWzX9uB.png (Twitter)
 
 [1]: https://twitter.com/el_beto22
+
+**Córdoba, Argentina** 🔵⚪🟡⚪🔵
 
 <!---
 techjosec/techjosec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
